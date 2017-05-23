@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## [Unreleased] XXXX-XX-XX
+## [0.2.2] 2017-05-23
 ### Changed
 - [ PNDA-2788 ]: Fix issues on java sample code
 
